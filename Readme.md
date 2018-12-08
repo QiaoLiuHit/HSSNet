@@ -1,4 +1,3 @@
-----------
 Hierarchical Spatial-aware Siamese Network for Thermal Infrared Object Tracking (HSSNet)
 ![Alt text](./images/HSSNetwork-framework.jpg)
 ## Abstract
